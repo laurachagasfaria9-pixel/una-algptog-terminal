@@ -8,4 +8,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `cls`: linpar terminal .
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./)
+![Foto do meu terminal](./foto)
